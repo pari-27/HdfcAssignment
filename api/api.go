@@ -1,1 +1,4 @@
-package main
+package api
+
+type Dependencies struct {
+}
